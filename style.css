@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    
+}
+
+
+.header{
+    background-image: url("../images/banner/banner2.png");
+    width: 100%;
+    height: auto;
+
+}
+.banner-content{
+    text-align: right;
+    margin-right: 230px;
+    margin-top: 220px;
+}
