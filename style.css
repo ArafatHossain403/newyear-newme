@@ -145,24 +145,14 @@ ul {
 
 }
 
-/* .second-banner{
-    background-image: url("../images/watch.png");
 
-    background-size:100% 100%; 
-    height: 300px; 
-    border-radius: 8px;
-    linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
-    
-} */
 .second-banner
 {
-    background-image:
-linear-gradient(to left,rgba(0, 95, 172, 0), rgba(19, 21, 117, 0.04)),
-url("../images/watch.png");
-background-size:100% 100%;
-height: 300px;
-background-size: cover;
-border-radius: 8px;
+    background-image: url("../images/watch.png");
+    background-size:100% 100%;
+    height: 300px;
+    background-size: cover;
+    border-radius: 8px;
 }
 
 
